@@ -1,3 +1,3 @@
 # HowToEndAWar
-Videojuego How To End a War
-:D
+Producto de la materia de Proyecto de Desarrollo de Videojuegos
+
